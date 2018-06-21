@@ -16,3 +16,5 @@ function divSelector() {
 }
 
 function firstListItem() {
+  return $('ul')
+}
